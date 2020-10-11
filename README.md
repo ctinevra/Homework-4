@@ -265,7 +265,7 @@ to_be_predicted2$yhat <- predict(model_temp2, newdata = to_be_predicted2)
 lines(yhat ~ AGE, data = to_be_predicted2)
 ```
 
-![](Homework-4_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
+![](unnamed-chunk-2-1.png)
 
 ``` r
 detach()
@@ -380,7 +380,7 @@ to_be_predicted3$yhat <- predict(model_temp3, newdata = to_be_predicted3)
 lines(yhat ~ AGE, data = to_be_predicted3)
 ```
 
-![](Homework-4_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
+![](unnamed-chunk-3-1.png)
 
 ``` r
 detach()
