@@ -124,7 +124,7 @@ to_be_predicted1$yhat <- predict(model_temp1, newdata = to_be_predicted1)
 lines(yhat ~ AGE, data = to_be_predicted1)
 ```
 
-![](Homework-4_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+![](unnamed-chunk-1-1.png)
 
 ``` r
 detach()
