@@ -156,7 +156,7 @@ difference seen between the total income between females and males with
 ages from 23 to 62 years old.
 
 This 2nd linear regression illustrates the correlation between total
-income of male college graduates ranging from ages 23 to 62 years old.
+income of male advance college graduates ranging from ages 23 to 62 years old.
 
 ``` r
 #Dependent Variable = Total Income (INCTOT)
@@ -272,7 +272,7 @@ detach()
 ```
 
 This 3rd linear regression illustrates the correlation between total
-income of female college graduates ranging from ages 23 to 62 years old.
+income of female advance college graduates ranging from ages 23 to 62 years old.
 
 ``` r
 #Dependent Variable = Total Income (INCTOT)
