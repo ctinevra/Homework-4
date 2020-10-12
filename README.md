@@ -1,4 +1,4 @@
-Homework 4, Lab 3, Econ B2000
+Homework 4, Lab 4, Econ B2000
 ================
 Christopher Tinevra, Group Members: Isabela Vieira, Akimawe Kadiri,
 Nicole Kerrison, Mostafa Ragheb, Charles Reed
