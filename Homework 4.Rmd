@@ -1,5 +1,5 @@
 ---
-title: "Homework 4, Lab 3, Econ B2000"
+title: "Homework 4, Lab 4, Econ B2000"
 author: 'Christopher Tinevra, Group Members: Isabela Vieira, Akimawe Kadiri, Nicole Kerrison, Mostafa Ragheb, Charles Reed'
 date: "10/12/2020"
 output: github_document
