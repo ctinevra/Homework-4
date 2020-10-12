@@ -138,8 +138,8 @@ Hispanics, Indian American, and other) and highest education achieve
 (college).
 
 For the following linear regression, we took into consideration similar
-variables of the dataset like education level (keeping college as the
-base education) but modify other variables like age range, and focused
+variables of the dataset like education level (using advance college as the
+base education) and modifying other variables like age range, and focused
 on total income and gender. The age range will span from 23 to 62,
 assuming the average age of college graduates is 23 years old and the
 average age for retirement is 62 years old in the USA. The main goal of
