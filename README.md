@@ -395,4 +395,4 @@ difference in total income between female and male ranging from ages 23
 to 62 years old. Other linear regression using different education
 levels output similar illustration but the total income will vary
 depending on the education level where high school graduates and college graduates will earn
-lower than advance college graduates.
+lower than advance college graduates. Additionally, the linear regressions illustrates a difference in total income when comparing males and females as even with the same level of education, males (from 2nd linear regression) start and earn more money throughout the ages of 23 to 62 in comparison with females (from the 3rd linear regression).
