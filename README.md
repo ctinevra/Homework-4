@@ -394,5 +394,5 @@ we are rejecting our null hypothesis which states that there is no
 difference in total income between female and male ranging from ages 23
 to 62 years old. Other linear regression using different education
 levels output similar illustration but the total income will vary
-depending on the education level where high school graduates will earn
-lower than college graduates.
+depending on the education level where high school graduates and college graduates will earn
+lower than advance college graduates.
