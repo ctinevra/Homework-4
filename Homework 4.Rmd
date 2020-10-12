@@ -42,13 +42,13 @@ detach()
 
 The preliminary results from the above 1st linear regression illustrated a positive correlation between income wages and ages ranging from 25 to 55 while using restriction with the variables of the dataset including focusing on female participants only, restrictions on race (looking at Hispanics, Indian American, and other) and highest education achieve (college).
 
-For the following linear regression, we took into consideration similar variables of the dataset like education level (keeping college as the base education) but modify other variables like age range, and focused on total income and gender. The age range will span from 23 to 62, assuming the average age of college graduates is 23 years old and the average age for retirement is 62 years old in the USA. The main goal of the linear regressions below is to observe whether there is a significant difference between the total income between females and males ranging from ages 23 to 62.
+For the following linear regression, we took into consideration similar variables of the dataset like education level (using advance college as the base education) but modify other variables like age range, and focused on total income and gender. The age range will span from 23 to 62, assuming the average age of college graduates is 23 years old and the average age for retirement is 62 years old in the USA. The main goal of the linear regressions below is to observe whether there is a significant difference between the total income between females and males ranging from ages 23 to 62.
 
 Our null hypothesis for the below linear regressions illustrates no difference for total income between females and males with ages from 23 to 62 years old.
 
 Our alternative hypothesis for the below linear regression illustrates a difference seen between the total income between females and males with ages from 23 to 62 years old.
 
-This 2nd linear regression illustrates the correlation between total income of male college graduates ranging from ages 23 to 62 years old. 
+This 2nd linear regression illustrates the correlation between total income of male advance college graduates ranging from ages 23 to 62 years old. 
 
 ``` {r}
 #Dependent Variable = Total Income (INCTOT)
@@ -79,7 +79,7 @@ detach()
 
 ```
 
-This 3rd linear regression illustrates the correlation between total income of female college graduates ranging from ages 23 to 62 years old. 
+This 3rd linear regression illustrates the correlation between total income of advance female college graduates ranging from ages 23 to 62 years old. 
 
 ``` {r}
 #Dependent Variable = Total Income (INCTOT)
@@ -108,4 +108,4 @@ lines(yhat ~ AGE, data = to_be_predicted3)
 detach()
 ```
 
-In conclusion, given that the p-value for both linear regression resulted in p-value:< 2.2e-16 which is under the p<0.01 for significant level, thus the smaller the p-value then the stronger evidence in favor of supporting our alternative hypothesis. Therefore, we are rejecting our null hypothesis which states that there is no difference in total income between female and male ranging from ages 23 to 62 years old. Other linear regression using different education levels output similar illustration but the total income will vary depending on the education level where high school graduates will earn lower than college graduates. 
+In conclusion, given that the p-value for both linear regression resulted in p-value:< 2.2e-16 which is under the p<0.01 for significant level, thus the smaller the p-value then the stronger evidence in favor of supporting our alternative hypothesis. Therefore, we are rejecting our null hypothesis which states that there is no difference in total income between female and male ranging from ages 23 to 62 years old. Other linear regression using different education levels output similar illustration but the total income will vary depending on the education level where high school graduates and college graduates will earn lower than advance college graduates. 
